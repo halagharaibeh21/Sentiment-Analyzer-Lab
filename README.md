@@ -17,7 +17,7 @@
 
 
 ## **Screenshot of Playground**
-![AI Response Screenshot](screenshot-link-here)
+assets/Screenshot 2025-12-03 174648.png
 
 ## **Mini Project Summary**
 I built a simple sentiment analyzer using GitHub’s AI model. It takes text input and returns the sentiment (Positive/Negative/Neutral) with a short explanation. This was a great way to learn how AI models process language!
